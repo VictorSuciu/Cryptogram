@@ -9,7 +9,7 @@ Works in console with input/output.txt files. Uses serialized hashmap .txt file 
 
 <br>
 
-##Important Note
+## Important Note
 
 This program requires a LOT of memory due to the massive data structure it builds.
 I have found that 7000 megabytes of heap space barely suffices and it probably will not finish building.
